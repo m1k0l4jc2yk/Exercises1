@@ -1,4 +1,4 @@
-public class Customer {
+public class CustomerTwo {
 
   public int customerID = 0;
   public String name = "-name required-";
